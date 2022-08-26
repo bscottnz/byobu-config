@@ -73,6 +73,8 @@
 
 <br />
 
-to copy large amounts of text - scroll mode and mark text with `space`. pressing `enter` will then copy the text. exit scroll mode with `ctrl` + `c`
+To copy large amounts of text - scroll mode and mark text with `space`. pressing `enter` will then copy the text. exit scroll mode with `ctrl` + `c`
 
-can also copy large amounts by enable mouse mode, highlight text then press `enter`.
+Can also copy large amounts by enable mouse mode, highlight text then press `enter`.
+
+May need to zoom into a split before coying text with mouse.
