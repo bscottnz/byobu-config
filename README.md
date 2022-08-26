@@ -4,7 +4,7 @@
 ### Install byobu
 `sudo apt install -y byobu`
 
-### Usefull shortcuts
+### Useful shortcuts
 
 `shift` + `f1` - help
 
