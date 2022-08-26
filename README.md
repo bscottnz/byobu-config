@@ -77,4 +77,4 @@ To copy large amounts of text - scroll mode and mark text with `space`. pressing
 
 Can also copy large amounts by enable mouse mode, highlight text then press `enter`.
 
-May need to zoom into a split before coying text with mouse.
+May need to zoom into a split before copying text with mouse.
